@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Frank-Raso&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Frank-Raso&style=for-the-badge)
 
 
 

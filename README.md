@@ -1,4 +1,4 @@
-### Hi 👋 I'm Frank, a Chicago based Full Stack software engineer.
+### Hi 👋 I'm Frank, a Chicago based full stack software engineer.
 
 ![](https://komarev.com/ghpvc/?username=Frank-Raso&style=for-the-badge)
 
